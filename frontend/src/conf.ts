@@ -1,0 +1,3 @@
+export const TOKEN =
+  '95aefbd5eec801a988b865f249da5c3b10198b8c74a55e566c6a5ab61db4be802390265feca7dc5033983cc3dae40a6e05d2bb112adffdc3380c8faa31aa20c23814e3fd5c21af4bae978af7babcb8eb3c472dffa05ea8b8f52af42dcbc8c0e8c1bb1e60c673b9bc560d7b27c1f577ece38464f847d15a60252d4a9f69e82cb1'
+export const URL = 'http://localhost:1337'
