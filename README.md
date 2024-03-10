@@ -97,7 +97,7 @@ Go to the [Frontend Homepage](https://localhost:5173/)
 
 - Backend address : [https://localhost:1337/admin/](https://localhost:1337/admin/)
 - Frontend address : [https://localhost:5173/](https://localhost:5173/)
-- Name of the containers folder : **projet1opsci**
+- Name of the containers folder : **backend**
 - Name of the strapi container : **strapi**
 - Name of the postgres container : **postgres**
 - List of the files (fully/partially) written manually :
