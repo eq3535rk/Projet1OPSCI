@@ -77,7 +77,7 @@ Start docker
 
 Run the `start_backend.sh` script in the backend folder
 
-Go to the [Backend Homepage](localhost:1337/admin/) and connect with the following credentials:
+Go to the [Backend Homepage](https://localhost:1337/admin/) and connect with the following credentials:
 
 > **Email:** strapi@strapi.io
 >
@@ -89,14 +89,14 @@ Go to the [Backend Homepage](localhost:1337/admin/) and connect with the followi
 
 Run the `start_frontend.sh` script in the frontend folder
 
-Go to the [Frontend Homepage](localhost:5173/)
+Go to the [Frontend Homepage](https://localhost:5173/)
 
 **You can now start browsing the products!**
 
 ## Additional information
 
-- Backend address : [localhost:1337/admin/](localhost:1337/admin/)
-- Frontend address : [localhost:5173/](localhost:5173/)
+- Backend address : [https://localhost:1337/admin/](https://localhost:1337/admin/)
+- Frontend address : [https://localhost:5173/](https://localhost:5173/)
 - Name of the containers folder : **projet1opsci**
 - Name of the strapi container : **strapi**
 - Name of the postgres container : **postgres**
