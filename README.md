@@ -13,7 +13,7 @@
 ***
 
 - [Node](https://nodejs.org/)
-- [NPM](https://www.npmjs.com/) **and** [Yarn](https://yarnpkg.com/)
+- [NPM](https://www.npmjs.com/) **+** [Yarn](https://yarnpkg.com/)
 
 ## What I did
 
